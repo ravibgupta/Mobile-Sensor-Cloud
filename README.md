@@ -1,10 +1,10 @@
 <h1 align="center">Mobile Sensor Cloud</h1>
 
 <p align="center">
-<a href="https://github.com/Nrupesh29/Mobile-Sensor-Cloud/blob/master/LICENSE" rel="Licence"><img src="https://img.shields.io/github/license/mashape/apistatus.svg" /></a>
+<a href="https://github.com/ravibgupta/Mobile-Sensor-Cloud/blob/master/LICENSE" rel="Licence"><img src="https://img.shields.io/github/license/mashape/apistatus.svg" /></a>
 <a href="" rel="Platform"><img src="https://img.shields.io/badge/platform-Web-orange.svg" /></a>
-<a href="https://github.com/Nrupesh29/Mobile-Sensor-Cloud/issues?q=is%3Aopen+is%3Aissue" rel="GitHub issues"><img src="https://img.shields.io/badge/issues-0%20open-green.svg" /></a>
-<a href="https://github.com/Nrupesh29/Mobile-Sensor-Cloud/issues?q=is%3Aissue+is%3Aclosed" rel="GitHub closed issues"><img src="https://img.shields.io/badge/issues-0%20closed-red.svg" /></a>
+<a href="https://github.com/ravibgupta/Mobile-Sensor-Cloud/issues?q=is%3Aopen+is%3Aissue" rel="GitHub issues"><img src="https://img.shields.io/badge/issues-0%20open-green.svg" /></a>
+<a href="https://github.com/ravibgupta/Mobile-Sensor-Cloud/issues?q=is%3Aissue+is%3Aclosed" rel="GitHub closed issues"><img src="https://img.shields.io/badge/issues-0%20closed-red.svg" /></a>
 </p>
 <table>
 <tr>
@@ -47,7 +47,7 @@ Coming Soon
 6. Select Web server environment in Environment tier.
 7. Choose PHP in Platform.
 8. Select upload your code in Application Code option.
-9. Download ![Mobile Sensor Cloud](Mobile Sensor Cloud) folder from repository and upload the zip file as Application Code in AWS.
+9. Download ![Source Code](Source Code) folder from repository and upload the zip file as Application Code in AWS.
 10. Click Create Environment.
 
 ### MySQL Database Connection with EBS
@@ -99,7 +99,7 @@ Coming soon
 
 1. Search previous suggestions before making a new one, as your's may be a duplicate.
 1. Create an issue and describe your idea.
-2. [Fork it] (https://github.com/Nrupesh29/Mobile-Sensor-Cloud/fork)
+2. [Fork it] (https://github.com/ravibgupta/Mobile-Sensor-Cloud/fork)
 3. Create a new branch for your feature (`git checkout -b my-new-feature`)
 4. Commit the changes (`git commit -am 'Add some feature'`)
 5. Publish the branch (`git push origin my-new-feature`)
@@ -107,10 +107,6 @@ Coming soon
 7. Done!
 
 Thank you for your suggestions!
-
-## License
-
-Web Traffic Visualizer is released under the [MIT License](https://github.com/Nrupesh29/Mobile-Sensor-Cloud/blob/master/LICENSE).
 
 ## Credits
 
